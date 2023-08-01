@@ -1,4 +1,5 @@
 Hi 👋, I'm Karry Law
+
 Passionate about Coding 
   
 
@@ -9,6 +10,3 @@ Passionate about Coding
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I enjoy playing football 
 
-Connect with me:
-https://twitter.com/0xKarry
-https://www.instagram.com/karrylaw_/
