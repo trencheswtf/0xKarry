@@ -1,12 +1,11 @@
-Hi 👋, I'm Karry Law
+Hi 👋, I'm trenches
 
-Passionate about Coding 
-  
+Passionate about the blockchain ecosystem, and I love coding
 
- - 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning React.js
+ - 🔭 I’m currently working on Solidity
+- 🌱 I’m currently learning Smart Contract
 - 💬 Ask me about coding and networking 
-- 📫 How to reach me: karrylaw112@gmail.com
+- 📫 How to reach me: trenches.wtf@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I enjoy playing football 
+   
 
