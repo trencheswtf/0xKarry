@@ -1,4 +1,4 @@
-👋 Hello there! I'm Trenches 
+  👋 Hello there! I'm Trenches 
 
 🔗 Smart Contract Developer | 🌐 Web3 Researcher | 🧠 Blockchain Enthusiast
 
@@ -7,4 +7,3 @@
 🧱 Working with Solidity, Ethereum, Hardhat, Foundry, and expanding into zk-tech, Layer 2s, and cross-chain systems.
 📚 Lifelong learner, always curious about cryptography, tokenomics, and on-chain governance.
 ⚡ Fun fact: I love video games 🎮 and crafting dApps that feel like seamless magic on-chain ✨.
-
