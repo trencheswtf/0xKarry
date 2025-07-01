@@ -1,6 +1,5 @@
 👋 Hello there! I'm Trenches 
 
-
 🔗 Smart Contract Developer | 🌐 Web3 Researcher | 🧠 Blockchain Enthusiast
 
 🌟 Building secure, efficient decentralized applications with a passion for blockchain innovation.
